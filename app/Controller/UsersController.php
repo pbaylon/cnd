@@ -26,6 +26,7 @@ class UsersController extends AppController {
             }
         }
         else {
+            $this->layout = 'potoLogin';
             $this->set('msg', 'Not Post');
         }
     }
