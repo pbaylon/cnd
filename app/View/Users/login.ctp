@@ -1,12 +1,3 @@
-<!-- <form action="../users/login" method="POST" >
-	<label>Username</label>
-	<input type="text" name="username">
-
-	<label>Password</label>
-	<input type="password" name="password">
-
-	<input type="submit" />
-</form> -->
 				<a href="/" class="logo pull-left">
 					<img src="/poto/images/logo.png" height="54" alt="Porto Admin" />
 				</a>
@@ -56,17 +47,6 @@
 									<button type="submit" class="btn btn-primary btn-block btn-lg visible-xs mt-lg">Sign In</button>
 								</div>
 							</div>
-
-							<!-- <span class="mt-lg mb-lg line-thru text-center text-uppercase">
-								<span>or</span>
-							</span>
-
-							<div class="mb-xs text-center">
-								<a class="btn btn-facebook mb-md ml-xs mr-xs">Connect with <i class="fa fa-facebook"></i></a>
-								<a class="btn btn-twitter mb-md ml-xs mr-xs">Connect with <i class="fa fa-twitter"></i></a>
-							</div>
-
-							<p class="text-center">Don't have an account yet? <a href="pages-signup.html">Sign Up!</a> -->
 
 						</form>
 					</div>
